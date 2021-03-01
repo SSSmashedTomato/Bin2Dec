@@ -1,2 +1,2 @@
 # Bin2Dec
-binary to decimal 
+binary to decimal made by me on JS.
